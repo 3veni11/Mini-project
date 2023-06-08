@@ -1,9 +1,9 @@
 ## Simple React Calculator
-A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculator/
+A Calculator Using React JS - https://3veni11.github.io/mini-project/
 
 ## Demo Look
 
-##### Live Link: https://maniruzzamanakash.github.io/react-calculator/
+##### Live Link: https://3veni11.github.io/mini=project/
  
 ![A Calculator Using React JS][calculator-screenshot]
 
@@ -11,7 +11,7 @@ A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculat
 
 
 ## Live Test of React js Simple Calculator
-https://maniruzzamanakash.github.io/react-calculator
+https://3veni11.github.io/mini-project
 
 ## Demo Look In Operation
  
@@ -24,7 +24,7 @@ https://maniruzzamanakash.github.io/react-calculator
 
 1) First Clone this project:
 
-### `git clone https://github.com/ManiruzzamanAkash/react-calculator.git`
+### `git clone https://github.com/3veni11/react-calculator.git`
 
 2) Install node modules:
 
