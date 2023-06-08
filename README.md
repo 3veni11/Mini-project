@@ -24,7 +24,7 @@ https://3veni11.github.io/mini-project
 
 1) First Clone this project:
 
-### `git clone https://github.com/3veni11/react-calculator.git`
+### `git clone https://github.com/3veni11/mini-project.git`
 
 2) Install node modules:
 
